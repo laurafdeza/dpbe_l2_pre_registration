@@ -96,29 +96,25 @@
 - Registration prior to analysis of the data 
 - Registration following analysis of the data 
 
-
-
+    Pre-registration is occurring before data collection for the intended research. No previous existing data will be analyzed. This research will be confirmatory. The studies taken as reference are discussed right below.
+    Gonzales and Lotto (2013) cued their early Spanish-English bilinguals perceptually and conceptually in a forced-choice task in which participants had to select whether the pseudo-word containing a sound from the /b/ or /p/ continuum they were hearing was Spanish or English. Gonzales et al. (2019) cued their Spanish-English and French-English bilingual participants only conceptually. In both studies, findings suggest that participants adjusted their phonemic identification boundary according to the language context. Casillas and Simonet (2018) expanded the population by adding beginner and proficient L2 speakers. These participants were cued perceptually. They found that late bilingual speakers also show evidence of the double phonemic boundary effect, although this effect was more pronounced in more advanced late bilingual speakers.
 
 ### Explanation of existing data (optional)
 
 **If you indicate that you will be using some data that already exist in this study, please describe the steps you have taken to assure that you are unaware of any patterns or summary statistics in the data. This may include an explanation of how access to the data has been limited, who has observed the data, or how you have avoided observing any analysis of the specific data you will use in your study.**
 
+### Sample size (required)
 
+**Describe the sample size of your study. How many units will be analyzed in the study? This could be the number of people, birds, classrooms, plots, interactions, or countries included. If the units are not individuals, then describe the size requirements for each unit. If you are using a clustered or multilevel design, how many units are you collecting at each level of the analysis?**
 
+    This study aims at replicating the results found in those three investigations, and to collect data for a condition not tested yet – when speakers are only conceptually cued. In order to do so, new data will be collected following the same procedure as in those studies from an adult L2 population on the east coast of the U.S. The population will be mostly college-aged, and they will participate as part of the grade for their Spanish courses (both language and content), or voluntarily. The goal is to get around 30 participants for each group: beginner and intermediate learners of L2 Spanish, and early English-Spanish bilinguals. Their proficiency will be assessed through the Bilingual Language Profile (BLP) questionnaire (Birdsong, Gertken, & Amengual, 2012). Special attention will be paid to the language history (range [120, 120]) and the proficiency (range [24, 24]) modules. For the early bilinguals, a score closer to 0 indicates balanced bilingualism and such values are what we are looking for for this group of participants.
 
 ### Data collection procedures (required)
 
 **Please describe the process by which you will collect your data. If you are using human subjects, this should include the population from which you obtain subjects, recruitment efforts, payment for participation, how subjects will be selected for eligibility from the initial pool (e.g. inclusion and exclusion rules), and your study timeline. For studies that don't include human subjects, include information about how you will collect samples, duration of data gathering efforts, source or location of samples, or batch numbers you will use.**
 
-
-
-
-### Sample size (required)
-
-**Describe the sample size of your study. How many units will be analyzed in the study? This could be the number of people, birds, classrooms, plots, interactions, or countries included. If the units are not individuals, then describe the size requirements for each unit. If you are using a clustered or multilevel design, how many units are you collecting at each level of the analysis?**
-
-
-
+    Data collection should last about two weeks, and participants will complete the experiment in a single session individually at a computer with a headset. There may be other participants completing the experiment at the same time, but no interaction will take place between them. Due to monetary restrictions and scarcity of population constraints, data collection might take longer than the two expected weeks or the pool of participants may be reduced.
+    The procedure consists of a forced-choice task. Participants will be presented aurally syllables (pa – ba) from the voiced-voiceless continuum /b/-/p/, spanning from the Spanish /b/ to the English /p/ one by one. There will be two blocks, and participants will be cued conceptually that they are going to hear English or Spanish. The blocks order will be counterbalanced across participants. For both blocks the syllables will be taken from the whole continuum. After hearing the syllable, participants will have to choose whether they heard /pa/ or /ba/. There will be no extra sounds in the stimuli biasing the responses towards one language or the other.
 
 ### Sample size rationale (optional)
 
