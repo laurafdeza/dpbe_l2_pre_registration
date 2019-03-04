@@ -2,7 +2,8 @@
 
 ## Study Information
 
-### Title (required)
+### The double phonemic boundaru effect in Bilinguals: a replication study in L2 Spanish learners
+
 
 **Provide the working title of your study. It may be the same title that you submit for publication of your final manuscript, but it is not a requirement.**
 
