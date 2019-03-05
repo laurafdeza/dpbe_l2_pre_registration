@@ -8,13 +8,10 @@
 **Provide the working title of your study. It may be the same title that you submit for publication of your final manuscript, but it is not a requirement.**
 
 
-
-
-
 ### Description (optional)
 
 **Please give a brief description of your study, including some background, the purpose of the study, or broad research questions.**
-
+** Several authors have demonstrated the double phonemic boundary effect in bilingual population , providing a strong evidence to support the hypothesis of a language-specific phonemic system in bilingual mind. Therefore, the aim of this study is to extend prior findigs to a new population of Heritage L2 Spanish  learners and English native L2 Spanish learners.
 **Ex.**  
 
 **Though there is strong evidence to suggest that sugar affects taste preferences, the effect has never been demonstrated in brownies. Therefore, we will measure taste preference for four different levels of sugar concentration in a standard brownie recipe to determine if the effect exists in this pastry.**
@@ -26,18 +23,23 @@
 
 ### Hypotheses (required)
 
+### Hipothesis 1
+Bilinguals shit perception across language context by switching between language-specific phonetic systems. Non-directional hypothesis. There is a relationship between the existence of two separate phonetic systems and the speaker shift perception of the sounds.
+
+### Hipothesis 2
+** Bilinguals identification of the VOT stimuli varies depending on the language context. Non-directional hypothesis. There is a relationship between the language context and the  identification of the VOT stimuli by  bilinguals.
+
+### Hipothesis 3
+** Proficiency have an effect in the voicing identification boundaries between English and Spanish. Directional hypothesis. There is a positive relation between proficiency and the identificacion of voicing boundarie.
+
 **List specific, concise, and testable hypotheses. Please state if the hypotheses are directional or non-directional. If directional, state the direction. A predicted effect is also appropriate here. If a specific interaction or moderation is important to your research, you can list that as a separate hypothesis.**
-
-
-
-
-
 
 
 
 ## Design Plan
 
 ### Study type (required)
+
 
 **Please check one of the following statements**
 
