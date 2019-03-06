@@ -2,17 +2,13 @@
 
 ## Study Information
 
-### The double phonemic boundary effect in Bilinguals: a replication study in L2 Spanish learners
-
-
-**Provide the working title of your study. It may be the same title that you submit for publication of your final manuscript, but it is not a requirement.**
+### Double Phonemic Boundary Effect in Bilinguals: a Replication Study with L2 Spanish Learners
 
 
 ### Description (optional)
 
-**Please give a brief description of your study, including some background, the purpose of the study, or broad research questions.**
 
-Several authors have demonstrated the double phonemic boundary effect in bilingual population , providing a strong evidence to support the hypothesis of a language-specific phonemic system in bilingual mind. Therefore, the aim of this study is to extend prior findigs to a new population of Heritage L2 Spanish learners and English native L2 Spanish learners.
+Several authors have demonstrated the double phonemic boundary effect in bilingual population, providing strong evidence to support the hypothesis of a language-specific phonemic system in bilingual mind. Therefore, the aim of this study is to extend prior findings to a new population of Heritage L2 Spanish learners and English native L2 Spanish learners.
 
 
 
@@ -40,9 +36,7 @@ Proficiency have an effect in the voicing identification boundaries between Engl
 - Experiment - A researcher randomly assigns treatments to study subjects, this includes field or lab experiments. This is also known as an intervention experiment and includes randomized controlled trials.
 
 
-Study type
 
-- Experiment. Researchers randomly assigns subjects for the experiment. There will be one experiment with two sessions. Trials will be randomized by Psychopy.
 
 
 ### Blinding (required)
@@ -54,7 +48,6 @@ Study type
 - Personnel who interact directly with the study subjects (either human or non-human subjects) will not be aware of the assigned treatments. (Commonly known as “double blind”)
 - Personnel who analyze the data collected from the study are not aware of the treatment applied to any given group.
 
-- In this research personnel will be aware of the assigned experiments. Participants will not know to which group they have been assigned.
 
 
 
@@ -67,17 +60,15 @@ Study type
 
 ### Study design (required)
 
-**Describe your study design. Examples include two-group, factorial, randomized block, and repeated measures. Is it a between (unpaired), within-subject (paired), or mixed design? Describe any counterbalancing required. Typical study designs for observation studies include cohort, cross sectional, and case-control studies.**
 
+The experiment is a two-alternative forced choice administered in two sessions with at least 24 hours between sessions. There will be one group of English second language (L2) learners of Spanish with different L2 proficiency levels. Proficiency level will be measured through vocabulary size, using a computerized version of the LEXTale test on Psychopy, and it will be considered a continuous variable. VOT will also be a continuous variable, ranging from -60ms to 60ms in 10ms intervals, including pre-voiced, short-lag, and long-lag VOTs. 
+
+The study has a within-subject design, all participants will complete the same tasks in both modes (English and Spanish). Mode will be counterbalanced, half of the participants will perform the first session in English and the other half in Spanish.
 
 
 ### Randomization (optional)
 
-**If you are doing a randomized study, how will you randomize, and at what level?**
-
-
-
-
+Participants will be randomly assigned to start with the Spanish  or the English version of the experiment.
 
 
 
@@ -95,15 +86,14 @@ Gonzales and Lotto (2013) cued their early Spanish-English bilinguals perceptual
 
 ### Sample size (required)
 
-**Describe the sample size of your study. How many units will be analyzed in the study? This could be the number of people, birds, classrooms, plots, interactions, or countries included. If the units are not individuals, then describe the size requirements for each unit. If you are using a clustered or multilevel design, how many units are you collecting at each level of the analysis?**
-
-    This study aims at replicating the results found in those three investigations, and to collect data for a condition not tested yet – when speakers are only conceptually cued. In order to do so, new data will be collected following the same procedure as in those studies from an adult L2 population on the east coast of the U.S. The population will be mostly college-aged, and they will participate as part of the grade for their Spanish courses (both language and content), or voluntarily. The goal is to get around 30 participants for each group: beginner and intermediate learners of L2 Spanish, and early English-Spanish bilinguals. Their proficiency will be assessed through the Bilingual Language Profile (BLP) questionnaire (Birdsong, Gertken, & Amengual, 2012). Special attention will be paid to the language history (range [120, 120]) and the proficiency (range [24, 24]) modules. For the early bilinguals, a score closer to 0 indicates balanced bilingualism and such values are what we are looking for for this group of participants.
+This study aims at replicating the results found in those three investigations, and to collect data for a condition not tested yet – when speakers are only conceptually cued. In order to do so, new data will be collected following the same procedure as in those studies from an adult L2 population on the east coast of the U.S. The population will be mostly college-aged, and they will participate as part of the grade for their Spanish courses (both language and content), or voluntarily. The goal is to get around 30 participants for each group: beginner and intermediate learners of L2 Spanish, and early English-Spanish bilinguals. Their proficiency will be assessed through the Bilingual Language Profile (BLP) questionnaire (Birdsong, Gertken, & Amengual, 2012). Special attention will be paid to the language history (range [120, 120]) and the proficiency (range [24, 24]) modules. For the early bilinguals, a score closer to 0 indicates balanced bilingualism and such values are what we are looking for for this group of participants.
 
 ### Data collection procedures (required)
 
 
-    Data collection should last about two weeks, and participants will complete the experiment in a single session individually at a computer with a headset. There may be other participants completing the experiment at the same time, but no interaction will take place between them. Due to monetary restrictions and scarcity of population constraints, data collection might take longer than the two expected weeks or the pool of participants may be reduced.
-    The procedure consists of a forced-choice task. Participants will be presented aurally syllables (pa – ba) from the voiced-voiceless continuum /b/-/p/, spanning from the Spanish /b/ to the English /p/ one by one. There will be two blocks, and participants will be cued conceptually that they are going to hear English or Spanish. The blocks order will be counterbalanced across participants. For both blocks the syllables will be taken from the whole continuum. After hearing the syllable, participants will have to choose whether they heard /pa/ or /ba/. There will be no extra sounds in the stimuli biasing the responses towards one language or the other.
+Data collection should last about two weeks, and participants will complete the experiment in a single session individually at a computer with a headset. There may be other participants completing the experiment at the same time, but no interaction will take place between them. Due to monetary restrictions and scarcity of population constraints, data collection might take longer than the two expected weeks or the pool of participants may be reduced.
+
+The procedure consists of a forced-choice task. Participants will be presented aurally syllables (pa – ba) from the voiced-voiceless continuum /b/-/p/, spanning from the Spanish /b/ to the English /p/ one by one. There will be two blocks, and participants will be cued conceptually that they are going to hear English or Spanish. The blocks order will be counterbalanced across participants. For both blocks the syllables will be taken from the whole continuum. After hearing the syllable, participants will have to choose whether they heard /pa/ or /ba/. There will be no extra sounds in the stimuli biasing the responses towards one language or the other.
 
 
 
@@ -138,50 +128,25 @@ Gonzales and Lotto (2013) cued their early Spanish-English bilinguals perceptual
 
 ### Statistical models (required)
 
-**What statistical model will you use to test each hypothesis? Please include the type of model (e.g. ANOVA, multiple regression, SEM, etc) and the specification of the model (this includes each variable that will be included as predictors, outcomes, or covariates). Please specify any interactions, subgroup analyses, pairwise or complex contrasts, or follow-up tests from omnibus tests. If you plan on using any positive controls, negative controls, or manipulation checks you may mention that here. Remember that any test not included here must be noted as an exploratory test in your final article.**
 
-
-
-
-### Transformations (optional)
-
-**If you plan on transforming, centering, recoding the data, or will require a coding scheme for categorical variables, please describe that process.**
-
-
-
+Responses to the two-alternative forced choice test will be analyzed. Since data is categorical (ba - pa), the hierarquical models will be fit with a binomial distribution using the logit link function, using _R_ (R Core Team, 2018) and the package 'lmer4'. We will include participant as a random effect. Mode and 
+proficiency will be fixed factors. Finally, the criterion will be response to the VOT continuum. 
 
 ### Inference criteria (optional)
 
-**What criteria will you use to make inferences? Please describe the information you’ll use (e.g. specify the p-values, Bayes factors, specific model fit indices), as well as cut-off criterion, where appropriate. Will you be using one or two tailed tests for each of your analyses? If you are comparing multiple conditions or testing multiple hypotheses, will you account for this?**
 
-
+We will use p-values as indicators of main effects or interactions. The alpha level will be set at 0.05. We will also assess the gooness-of-fit for the models with marginal _R^2^_ ( _R^2^_ m, without mixed effects) and conditional _R^2^_ ( _R^2^_ c, with mixed effects).
 
 
 ### Data exclusion (optional)
 
-**How will you determine which data points or samples if any to exclude from your analyses? How will outliers be handled? Will you use any awareness check?**
+We will exclude data according to the following criteria:
 
-
-
-
-### Missing data (optional)
-
-**How will you deal with incomplete or missing data?**
-
-
-
-
-### Exploratory analysis (optional)
-
-**If you plan to explore your data set to look for unexpected differences or relationships, you may describe those tests here. An exploratory test is any test where a prediction is not made up front, or there are multiple possible tests that you are going to use. A statistically significant finding in an exploratory test is a great way to form a new confirmatory hypothesis, which could be registered at a later time.**
+- Error during data collection
+- Participant's lack of understanding or engagement during the task
 
 
 
 
 
 
-## Other
-
-### Other
-
-**If there is any additional information that you feel needs to be included in your preregistration, please enter it here. Literature cited, disclosures of any related work such as replications or work that uses the same data, or other context that will be helpful for future readers would be appropriate here.**
