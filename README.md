@@ -131,54 +131,24 @@ Prior to the study, participants will fill in the proficiency test.
 
 
 
+
 ## Analysis Plan
 
 ### Statistical models (required)
 
-**What statistical model will you use to test each hypothesis? Please include the type of model (e.g. ANOVA, multiple regression, SEM, etc) and the specification of the model (this includes each variable that will be included as predictors, outcomes, or covariates). Please specify any interactions, subgroup analyses, pairwise or complex contrasts, or follow-up tests from omnibus tests. If you plan on using any positive controls, negative controls, or manipulation checks you may mention that here. Remember that any test not included here must be noted as an exploratory test in your final article.**
 
-
-
-
-### Transformations (optional)
-
-**If you plan on transforming, centering, recoding the data, or will require a coding scheme for categorical variables, please describe that process.**
-
-
-
+Responses to the two-alternative forced choice test will be analyzed. Since data is categorical (ba - pa), the hierarquical models will be fit with a binomial distribution using the logit link function, using _R_ (R Core Team, 2018) and the package 'lmer4'. We will include participant as a random effect. Mode and 
+proficiency will be fixed factors. Finally, the criterion will be response to the VOT continuum. 
 
 ### Inference criteria (optional)
 
-**What criteria will you use to make inferences? Please describe the information you’ll use (e.g. specify the p-values, Bayes factors, specific model fit indices), as well as cut-off criterion, where appropriate. Will you be using one or two tailed tests for each of your analyses? If you are comparing multiple conditions or testing multiple hypotheses, will you account for this?**
 
-
+We will use p-values as indicators of main effects or interactions. The alpha level will be set at 0.05. We will also assess the gooness-of-fit for the models with marginal _R^2^_ ( _R^2^_ m, without mixed effects) and conditional _R^2^_ ( _R^2^_ c, with mixed effects).
 
 
 ### Data exclusion (optional)
 
-**How will you determine which data points or samples if any to exclude from your analyses? How will outliers be handled? Will you use any awareness check?**
+We will exclude data according to the following criteria:
 
-
-
-
-### Missing data (optional)
-
-**How will you deal with incomplete or missing data?**
-
-
-
-
-### Exploratory analysis (optional)
-
-**If you plan to explore your data set to look for unexpected differences or relationships, you may describe those tests here. An exploratory test is any test where a prediction is not made up front, or there are multiple possible tests that you are going to use. A statistically significant finding in an exploratory test is a great way to form a new confirmatory hypothesis, which could be registered at a later time.**
-
-
-
-
-
-
-## Other
-
-### Other
-
-**If there is any additional information that you feel needs to be included in your preregistration, please enter it here. Literature cited, disclosures of any related work such as replications or work that uses the same data, or other context that will be helpful for future readers would be appropriate here.**
+- Error during data collection
+- Participant's lack of understanding or engagement during the task
