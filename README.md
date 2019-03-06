@@ -91,14 +91,10 @@ Prior to the study, participants will fill in the proficiency test.
 
 ### Manipulated variables (optional)
 
-**Describe all variables you plan to manipulate and the levels or treatment arms of each variable. This is not applicable to any observational study.**
-
 As in Gonzales, Heinlein, & Lotto (2019), we will manipulate the language context conceptually through the instructions. In one session, participants will be told that they will listen to the beginnings of two words in Spanish. In the other session, participants will be told that they will listen to words in English.
 
 
 ### Measured variables (required)
-
-**Describe each variable that you will measure. This will include outcome measures, as well as any predictors or covariates that you will measure. You do not need to include any variables that you plan on collecting if they are not going to be included in the confirmatory analyses of this study.**
 
 We will measure the perceptual categorization through a forced-choice task in which participants have to indicate whether they hear the beginning of the word ‘pafri’ or ‘bafri’ as they listen to the continuum, as described previously. 
 
