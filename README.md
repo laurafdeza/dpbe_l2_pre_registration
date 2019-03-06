@@ -24,7 +24,7 @@ Several authors have demonstrated the double phonemic boundary effect in bilingu
 Bilinguals shift perception across language context by switching between language-specific phonetic systems. Non-directional hypothesis. There is a relationship between the existence of two separate phonetic systems and the speaker shift perception of the sounds.
 
 ### Hipothesis 2
-Bilinguals identification of the VOT stimuli varies depending on the language context. Non-directional hypothesis. There is a relationship between the language context and the  identification of the VOT stimuli by  bilinguals.
+Bilinguals identification of the VOT stimuli varies depending on the language mode. Non-directional hypothesis. There is a relationship between the language context and the  identification of the VOT stimuli by  bilinguals.
 
 ### Hipothesis 3
 Proficiency have an effect in the voicing identification boundaries between English and Spanish. Directional hypothesis. There is a positive relation between proficiency and the identificacion of voicing boundarie.
