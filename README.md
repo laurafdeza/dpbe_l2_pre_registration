@@ -58,7 +58,7 @@ Proficiency have an effect in the voicing identification boundaries between Engl
 
 
 
-### Study design (required)
+### Study design
 
 
 The experiment is a two-alternative forced choice administered in two sessions with at least 24 hours between sessions. There will be one group of English second language (L2) learners of Spanish with different L2 proficiency levels. Proficiency level will be measured through vocabulary size, using a computerized version of the LEXTale test on Psychopy, and it will be considered a continuous variable. VOT will also be a continuous variable, ranging from -60ms to 60ms in 10ms intervals, including pre-voiced, short-lag, and long-lag VOTs. 
@@ -66,7 +66,7 @@ The experiment is a two-alternative forced choice administered in two sessions w
 The study has a within-subject design, all participants will complete the same tasks in both modes (English and Spanish). Mode will be counterbalanced, half of the participants will perform the first session in English and the other half in Spanish.
 
 
-### Randomization (optional)
+### Randomization
 
 Participants will be randomly assigned to start with the Spanish  or the English version of the experiment.
 
