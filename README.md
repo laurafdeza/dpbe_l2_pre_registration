@@ -11,28 +11,23 @@
 ### Description (optional)
 
 **Please give a brief description of your study, including some background, the purpose of the study, or broad research questions.**
-** Several authors have demonstrated the double phonemic boundary effect in bilingual population , providing a strong evidence to support the hypothesis of a language-specific phonemic system in bilingual mind. Therefore, the aim of this study is to extend prior findigs to a new population of Heritage L2 Spanish  learners and English native L2 Spanish learners.
-**Ex.**  
 
-**Though there is strong evidence to suggest that sugar affects taste preferences, the effect has never been demonstrated in brownies. Therefore, we will measure taste preference for four different levels of sugar concentration in a standard brownie recipe to determine if the effect exists in this pastry.**
-
-**(The description should be no longer than the length of an abstract. It can give some context for the proposed study, but great detail is not needed here for your preregistration.)**
+Several authors have demonstrated the double phonemic boundary effect in bilingual population , providing a strong evidence to support the hypothesis of a language-specific phonemic system in bilingual mind. Therefore, the aim of this study is to extend prior findigs to a new population of Heritage L2 Spanish learners and English native L2 Spanish learners.
 
 
 
 
-### Hypotheses (required)
+
+### Hypotheses 
 
 ### Hipothesis 1
 Bilinguals shit perception across language context by switching between language-specific phonetic systems. Non-directional hypothesis. There is a relationship between the existence of two separate phonetic systems and the speaker shift perception of the sounds.
 
 ### Hipothesis 2
-** Bilinguals identification of the VOT stimuli varies depending on the language context. Non-directional hypothesis. There is a relationship between the language context and the  identification of the VOT stimuli by  bilinguals.
+Bilinguals identification of the VOT stimuli varies depending on the language context. Non-directional hypothesis. There is a relationship between the language context and the  identification of the VOT stimuli by  bilinguals.
 
 ### Hipothesis 3
-** Proficiency have an effect in the voicing identification boundaries between English and Spanish. Directional hypothesis. There is a positive relation between proficiency and the identificacion of voicing boundarie.
-
-**List specific, concise, and testable hypotheses. Please state if the hypotheses are directional or non-directional. If directional, state the direction. A predicted effect is also appropriate here. If a specific interaction or moderation is important to your research, you can list that as a separate hypothesis.**
+Proficiency have an effect in the voicing identification boundaries between English and Spanish. Directional hypothesis. There is a positive relation between proficiency and the identificacion of voicing boundarie.
 
 
 
@@ -40,13 +35,10 @@ Bilinguals shit perception across language context by switching between language
 
 ### Study type (required)
 
-
 **Please check one of the following statements**
 
 - Experiment - A researcher randomly assigns treatments to study subjects, this includes field or lab experiments. This is also known as an intervention experiment and includes randomized controlled trials.
-- Observational Study - Data is collected from study subjects that are not randomly assigned to a treatment. This includes surveys, “natural experiments,” and regression discontinuity designs.
-- Meta-Analysis - A systematic review of published studies.
-- Other
+
 
 
 
@@ -90,20 +82,13 @@ Bilinguals shit perception across language context by switching between language
 
 ### Existing Data (required)
 
-**Preregistration is designed to make clear the distinction between confirmatory tests, specified prior to seeing the data, and exploratory analyses conducted after observing the data. Therefore, creating a research plan in which existing data will be used presents unique challenges. Please select the description that best describes your situation. Please see https://cos.io/prereg for more information.**
-
 - Registration prior to creation of data 
-- Registration prior to any human observation of the data 
-- Registration prior to accessing the data 
-- Registration prior to analysis of the data 
-- Registration following analysis of the data 
 
-    Pre-registration is occurring before data collection for the intended research. No previous existing data will be analyzed. This research will be confirmatory. The studies taken as reference are discussed right below.
-    Gonzales and Lotto (2013) cued their early Spanish-English bilinguals perceptually and conceptually in a forced-choice task in which participants had to select whether the pseudo-word containing a sound from the /b/ or /p/ continuum they were hearing was Spanish or English. Gonzales et al. (2019) cued their Spanish-English and French-English bilingual participants only conceptually. In both studies, findings suggest that participants adjusted their phonemic identification boundary according to the language context. Casillas and Simonet (2018) expanded the population by adding beginner and proficient L2 speakers. These participants were cued perceptually. They found that late bilingual speakers also show evidence of the double phonemic boundary effect, although this effect was more pronounced in more advanced late bilingual speakers.
+Pre-registration is occurring before data collection for the intended research. No previous existing data will be analyzed. This research will be confirmatory. The studies taken as reference are discussed right below.
 
-### Explanation of existing data (optional)
+Gonzales and Lotto (2013) cued their early Spanish-English bilinguals perceptually and conceptually in a forced-choice task in which participants had to select whether the pseudo-word containing a sound from the /b/ or /p/ continuum they were hearing was Spanish or English. Gonzales et al. (2019) cued their Spanish-English and French-English bilingual participants only conceptually. In both studies, findings suggest that participants adjusted their phonemic identification boundary according to the language context. Casillas and Simonet (2018) expanded the population by adding beginner and proficient L2 speakers. These participants were cued perceptually. They found that late bilingual speakers also show evidence of the double phonemic boundary effect, although this effect was more pronounced in more advanced late bilingual speakers.
 
-**If you indicate that you will be using some data that already exist in this study, please describe the steps you have taken to assure that you are unaware of any patterns or summary statistics in the data. This may include an explanation of how access to the data has been limited, who has observed the data, or how you have avoided observing any analysis of the specific data you will use in your study.**
+
 
 ### Sample size (required)
 
@@ -113,25 +98,9 @@ Bilinguals shit perception across language context by switching between language
 
 ### Data collection procedures (required)
 
-**Please describe the process by which you will collect your data. If you are using human subjects, this should include the population from which you obtain subjects, recruitment efforts, payment for participation, how subjects will be selected for eligibility from the initial pool (e.g. inclusion and exclusion rules), and your study timeline. For studies that don't include human subjects, include information about how you will collect samples, duration of data gathering efforts, source or location of samples, or batch numbers you will use.**
 
     Data collection should last about two weeks, and participants will complete the experiment in a single session individually at a computer with a headset. There may be other participants completing the experiment at the same time, but no interaction will take place between them. Due to monetary restrictions and scarcity of population constraints, data collection might take longer than the two expected weeks or the pool of participants may be reduced.
     The procedure consists of a forced-choice task. Participants will be presented aurally syllables (pa – ba) from the voiced-voiceless continuum /b/-/p/, spanning from the Spanish /b/ to the English /p/ one by one. There will be two blocks, and participants will be cued conceptually that they are going to hear English or Spanish. The blocks order will be counterbalanced across participants. For both blocks the syllables will be taken from the whole continuum. After hearing the syllable, participants will have to choose whether they heard /pa/ or /ba/. There will be no extra sounds in the stimuli biasing the responses towards one language or the other.
-
-### Sample size rationale (optional)
-
-**This could include a power analysis or an arbitrary constraint such as time, money, or personnel.**
-
-
-
-### Stopping rule (optional)
-
-**If your data collection procedures do not give you full control over your exact sample size, specify how you will decide when to terminate your data collection.**
-
-
-
-
-
 
 
 
