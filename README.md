@@ -24,7 +24,7 @@
 ### Hypotheses (required)
 
 ### Hipothesis 1
-Bilinguals shit perception across language context by switching between language-specific phonetic systems. Non-directional hypothesis. There is a relationship between the existence of two separate phonetic systems and the speaker shift perception of the sounds.
+Bilinguals shift perception across language context by switching between language-specific phonetic systems. Non-directional hypothesis. There is a relationship between the existence of two separate phonetic systems and the speaker shift perception of the sounds.
 
 ### Hipothesis 2
 ** Bilinguals identification of the VOT stimuli varies depending on the language context. Non-directional hypothesis. There is a relationship between the language context and the  identification of the VOT stimuli by  bilinguals.
@@ -48,7 +48,9 @@ Bilinguals shit perception across language context by switching between language
 - Meta-Analysis - A systematic review of published studies.
 - Other
 
+Study type
 
+- Experiment. Researchers randomly assigns subjects for the experiment. There will be one experiment with two sessions. Trials will be randomized by Psychopy.
 
 
 ### Blinding (required)
@@ -60,6 +62,7 @@ Bilinguals shit perception across language context by switching between language
 - Personnel who interact directly with the study subjects (either human or non-human subjects) will not be aware of the assigned treatments. (Commonly known as “double blind”)
 - Personnel who analyze the data collected from the study are not aware of the treatment applied to any given group.
 
+- In this research personnel will be aware of the assigned experiments. Participants will not know to which group they have been assigned.
 
 
 
