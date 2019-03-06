@@ -20,7 +20,7 @@ Several authors have demonstrated the double phonemic boundary effect in bilingu
 Bilinguals shift perception across language context by switching between language-specific phonetic systems. Non-directional hypothesis. There is a relationship between the existence of two separate phonetic systems and the speaker shift perception of the sounds.
 
 ### Hipothesis 2
-Bilinguals identification of the VOT stimuli varies depending on the language context. Non-directional hypothesis. There is a relationship between the language context and the  identification of the VOT stimuli by  bilinguals.
+Bilinguals identification of the VOT stimuli varies depending on the language mode. Non-directional hypothesis. There is a relationship between the language context and the  identification of the VOT stimuli by  bilinguals.
 
 ### Hipothesis 3
 Proficiency have an effect in the voicing identification boundaries between English and Spanish. Directional hypothesis. There is a positive relation between proficiency and the identificacion of voicing boundarie.
@@ -86,14 +86,17 @@ Gonzales and Lotto (2013) cued their early Spanish-English bilinguals perceptual
 
 ### Sample size (required)
 
+
 This study aims at replicating the results found in those three investigations, and to collect data for a condition not tested yet – when speakers are only conceptually cued. In order to do so, new data will be collected following the same procedure as in those studies from an adult L2 population on the east coast of the U.S. The population will be mostly college-aged, and they will participate as part of the grade for their Spanish courses (both language and content), or voluntarily. The goal is to get around 30 participants for each group: beginner and intermediate learners of L2 Spanish, and early English-Spanish bilinguals. Their proficiency will be assessed through the Bilingual Language Profile (BLP) questionnaire (Birdsong, Gertken, & Amengual, 2012). Special attention will be paid to the language history (range [120, 120]) and the proficiency (range [24, 24]) modules. For the early bilinguals, a score closer to 0 indicates balanced bilingualism and such values are what we are looking for for this group of participants.
+
+
+This study aims at replicating the results found in those three investigations, and to collect data for a condition not tested yet – when speakers are only conceptually cued. In order to do so, new data will be collected following the same procedure as in those studies from an adult L2 population on the east coast of the U.S. The population will be mostly college-aged, and they will participate as part of the grade for their Spanish courses (both language and content), or voluntarily. The goal is to get around 30 learners of L2 Spanish whose proficiency may vary from beginner and to high intermediate, and 30 early English-Spanish bilinguals. Their proficiency will be assessed through the Bilingual Language Profile (BLP) questionnaire (Birdsong, Gertken, & Amengual, 2012). Special attention will be paid to the language history (range [120, 120]) and the proficiency (range [24, 24]) modules. For the early bilinguals, a score closer to 0 indicates balanced bilingualism and such values are what we are looking for for this group of participants. L2 speakers will complete the Lextale test to determine their proficiency.
 
 ### Data collection procedures (required)
 
-
-Data collection should last about two weeks, and participants will complete the experiment in a single session individually at a computer with a headset. There may be other participants completing the experiment at the same time, but no interaction will take place between them. Due to monetary restrictions and scarcity of population constraints, data collection might take longer than the two expected weeks or the pool of participants may be reduced.
-
-The procedure consists of a forced-choice task. Participants will be presented aurally syllables (pa – ba) from the voiced-voiceless continuum /b/-/p/, spanning from the Spanish /b/ to the English /p/ one by one. There will be two blocks, and participants will be cued conceptually that they are going to hear English or Spanish. The blocks order will be counterbalanced across participants. For both blocks the syllables will be taken from the whole continuum. After hearing the syllable, participants will have to choose whether they heard /pa/ or /ba/. There will be no extra sounds in the stimuli biasing the responses towards one language or the other.
+Data collection should last about two weeks, and participants will complete the experiment individually at a computer with a headset in two sessions. The sessions will be apart at least 24 hours. There may be other participants completing the experiment at the same time, but no interaction will take place between them. Due to monetary restrictions and scarcity of population constraints, data collection might take longer than the two expected weeks or the pool of participants may be reduced.
+The procedure consists of a forced-choice task. Participants will be presented aurally syllables (pa – ba) from the voiced-voiceless continuum /b/-/p/, spanning from the Spanish /b/ to the English /p/ one by one. Depending on the session, participants will be cued conceptually that they are going to hear English or Spanish. The conceptual cue order will be counterbalanced across participants for the two sessions. For both sessions, the syllables will be taken from the whole continuum. After hearing the syllable, participants will have to choose whether they heard /pa/ or /ba/. There will be no extra sounds in the stimuli biasing the responses towards one language or the other.
+Prior to the study, participants will fill in the proficiency test.
 
 
 
