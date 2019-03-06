@@ -31,11 +31,6 @@ Proficiency have an effect in the voicing identification boundaries between Engl
 - Experiment - A researcher randomly assigns treatments to study subjects, this includes field or lab experiments. This is also known as an intervention experiment and includes randomized controlled trials.
 
 
-Study type
-
-- Experiment. Researchers randomly assigns subjects for the experiment. There will be one experiment with two sessions. Trials will be randomized by Psychopy.
-
-
 ### Blinding (required)
 
 **Blinding describes who is aware of the experimental manipulations within a study. Mark all that apply.**
