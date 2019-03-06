@@ -5,17 +5,9 @@
 ### The double phonemic boundary effect in Bilinguals: a replication study in L2 Spanish learners
 
 
-**Provide the working title of your study. It may be the same title that you submit for publication of your final manuscript, but it is not a requirement.**
-
-
 ### Description (optional)
 
-**Please give a brief description of your study, including some background, the purpose of the study, or broad research questions.**
-
 Several authors have demonstrated the double phonemic boundary effect in bilingual population , providing a strong evidence to support the hypothesis of a language-specific phonemic system in bilingual mind. Therefore, the aim of this study is to extend prior findigs to a new population of Heritage L2 Spanish learners and English native L2 Spanish learners.
-
-
-
 
 
 ### Hypotheses 
@@ -33,9 +25,8 @@ Proficiency have an effect in the voicing identification boundaries between Engl
 
 ## Design Plan
 
-### Study type (required)
+### Study type 
 
-**Please check one of the following statements**
 
 - Experiment - A researcher randomly assigns treatments to study subjects, this includes field or lab experiments. This is also known as an intervention experiment and includes randomized controlled trials.
 
@@ -64,26 +55,23 @@ Study type
 **Add information here**
 
 
-
-### Study design (required)
-
-**Describe your study design. Examples include two-group, factorial, randomized block, and repeated measures. Is it a between (unpaired), within-subject (paired), or mixed design? Describe any counterbalancing required. Typical study designs for observation studies include cohort, cross sectional, and case-control studies.**
+### Study design
 
 
+The experiment is a two-alternative forced choice administered in two sessions with at least 24 hours between sessions. There will be one group of English second language (L2) learners of Spanish with different L2 proficiency levels. Proficiency level will be measured through vocabulary size, using a computerized version of the LEXTale test on Psychopy, and it will be considered a continuous variable. VOT will also be a continuous variable, ranging from -60ms to 60ms in 10ms intervals, including pre-voiced, short-lag, and long-lag VOTs. 
 
-### Randomization (optional)
-
-**If you are doing a randomized study, how will you randomize, and at what level?**
-
+The study has a within-subject design, all participants will complete the same tasks in both modes (English and Spanish). Mode will be counterbalanced, half of the participants will perform the first session in English and the other half in Spanish.
 
 
+### Randomization
 
+Participants will be randomly assigned to start with the Spanish  or the English version of the experiment.
 
 
 
 ## Sampling Plan
 
-### Existing Data (required)
+### Existing Data 
 
 - Registration prior to creation of data 
 
@@ -93,11 +81,11 @@ Gonzales and Lotto (2013) cued their early Spanish-English bilinguals perceptual
 
 
 
-### Sample size (required)
+### Sample size 
 
 This study aims at replicating the results found in those three investigations, and to collect data for a condition not tested yet – when speakers are only conceptually cued. In order to do so, new data will be collected following the same procedure as in those studies from an adult L2 population on the east coast of the U.S. The population will be mostly college-aged, and they will participate as part of the grade for their Spanish courses (both language and content), or voluntarily. The goal is to get around 30 learners of L2 Spanish whose proficiency may vary from beginner and to high intermediate, and 30 early English-Spanish bilinguals. Their proficiency will be assessed through the Bilingual Language Profile (BLP) questionnaire (Birdsong, Gertken, & Amengual, 2012). Special attention will be paid to the language history (range [120, 120]) and the proficiency (range [24, 24]) modules. For the early bilinguals, a score closer to 0 indicates balanced bilingualism and such values are what we are looking for for this group of participants. L2 speakers will complete the Lextale test to determine their proficiency.
 
-### Data collection procedures (required)
+### Data collection procedures 
 
 Data collection should last about two weeks, and participants will complete the experiment individually at a computer with a headset in two sessions. The sessions will be apart at least 24 hours. There may be other participants completing the experiment at the same time, but no interaction will take place between them. Due to monetary restrictions and scarcity of population constraints, data collection might take longer than the two expected weeks or the pool of participants may be reduced.
 The procedure consists of a forced-choice task. Participants will be presented aurally syllables (pa – ba) from the voiced-voiceless continuum /b/-/p/, spanning from the Spanish /b/ to the English /p/ one by one. Depending on the session, participants will be cued conceptually that they are going to hear English or Spanish. The conceptual cue order will be counterbalanced across participants for the two sessions. For both sessions, the syllables will be taken from the whole continuum. After hearing the syllable, participants will have to choose whether they heard /pa/ or /ba/. There will be no extra sounds in the stimuli biasing the responses towards one language or the other.
