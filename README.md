@@ -7,15 +7,20 @@
 
 ### Description (optional)
 
-Previous studies (Casillas & Simonet, 2018; Gonzales & Lotto, 2013; Gonzales, Heinlein, & Lotto, 2019) indicate that bilinguals exhibit a double phonemic boundary effect. These studies provide strong evidence for the existence of two language specific phonemic systems in the bilingual mind. This study contributes to prior findings by investigating whether the double phonemic boundary effect can be observed in late second language (L2) speakers when providing only conceptual cues.
+Previous studies (Casillas & Simonet, 2018; Gonzales & Lotto, 2013; Gonzales, Heinlein, & Lotto, 2019) indicate that bilinguals exhibit a double phonemic boundary effect (i.e., a significant difference between the labeling func- tions obtained when listeners find themselves in Spanish mode and those obtained when they are in English mode). These studies provide strong evidence for the existence of two language-specific phonetic systems in the bilingual mind.
 
-*ADD 1/2 SENTENCES PER STUDY*
+Gonzales & Lotto (2013) investigate how bilinguals perceptually accommodate speech variation across languages. In their experiment, Spanish-English bilinguals and English monolinguals listened to Spanish and English continua of pseudowords (from bafri to pafri) and indicated which of the two “words” was spoken by pressing a key. The language context was manipulated through the instructions and through the phonetic makeup of pseudoword endings. Results show that Spanish-English bilinguals identified the exact same pseudoword-initial stop consonant as 'b' and 'p' across English and Spanish contexts respectively. This indicates that bilinguals adjust their perceptual categorization across language contexts by switching between language-specific phonetic systems. 
 
+Building on this finding, Casillas & Simonet (2018) observe whether Spanish-English bilinguals utilize different categorization criteria based on their language mode during different stages of language learning. In experiment 1, simultaneous Spanish-English bilinguals and adult English-speaking learners of Spanish listened to the two continua in two separate sessions and indicated which “word” (bafri or pafri) they heard. Results of experiment 1 show that both simultaneous bilinguals and second language learners exhibit the double phonemic boundary effect in their perceptual categorization routines. Experiment 2 tested early bilinguals and adult English-speaking learners of Spanish in a forced-choice task similar to experiment 1, but participants listened to both continua in a single experimental session. Results of experiment 2 show that early bilinguals adjusted their perceptual boundary based on their language mode whereas in the other group only the more proficient learners were more likely to do it.
+
+Gonzales, Heinlein, & Lotto (2019) explore whether conceptually-based language selection, which happens in the spoken modality, is also possible in the listening modality. In their experiment, Spanish-English bilinguals and French-English bilinguals listened to a /b/-/p/ continuum of the beginnings of language neutral pseudowords (Spanish-English: bafri, pafri; French-English: befru, pefru) and indicated which “word” the speaker was beginning to say. The language context was manipulated conceptually through the instructions only. Results indicate that both groups placed their voicing identification boundary at a lower VOT value when cued to their Romance language than when cued to English. This suggests that conceptually-based language selection may happen in the listening modality as well.
+
+The present study contributes to these prior findings by investigating whether the double phonemic boundary effect can be observed in late second language (L2) speakers when providing only conceptual cues.
 
 ### Hypotheses 
 
 ### Hipothesis 1
-Bilinguals cannot adjust their perceptual categorization across language contexts by switching between language-specific phonemic systems when they are only conceptually cued. 
+Bilinguals cannot adjust their perceptual categorization across language contexts by switching between language-specific phonetic systems when they are only conceptually cued. 
 
 ### Hipothesis 2
 Proficiency will have no effect on perceptual categorization across language contexts, i.e. more advanced L2 learners will perform similarly to beginner L2 learners.
