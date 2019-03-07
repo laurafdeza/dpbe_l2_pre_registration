@@ -101,7 +101,8 @@ We will measure the perceptual categorization through a forced-choice task in wh
 
 ### Indices (optional)
 
-**If any measurements are going to be combined into an index (or even a mean), what measures will you use and how will they be combined? Include either a formula or a precise description of your method. If you are using a more complicated statistical method to combine measures (e.g. a factor analysis), you can note that here but describe the exact method in the analysis plan section.**
+
+
 
 
 
