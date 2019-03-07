@@ -7,7 +7,7 @@
 
 ### Description (optional)
 
-Previous studies (Casillas & Simonet, 2018; Gonzales & Lotto, 2013; Gonzales, Heinlein, & Lotto, 2019) indicate that bilinguals exhibit a double phonemic boundary effect (i.e., a significant difference between the labeling func- tions obtained when listeners find themselves in Spanish mode and those obtained when they are in English mode). These studies provide strong evidence for the existence of two language-specific phonetic systems in the bilingual mind.
+Previous studies (Casillas & Simonet, 2018; Gonzales & Lotto, 2013; Gonzales, Heinlein, & Lotto, 2019) indicate that bilinguals exhibit a double phonemic boundary effect (i.e., a significant difference between the labeling functions obtained when listeners find themselves in Spanish mode and those obtained when they are in English mode). These studies provide strong evidence for the existence of two language-specific phonetic systems in the bilingual mind.
 
 Gonzales & Lotto (2013) investigate how bilinguals perceptually accommodate speech variation across languages. In their experiment, Spanish-English bilinguals and English monolinguals listened to Spanish and English continua of pseudowords (from bafri to pafri) and indicated which of the two “words” was spoken by pressing a key. The language context was manipulated through the instructions and through the phonetic makeup of pseudoword endings. Results show that Spanish-English bilinguals identified the exact same pseudoword-initial stop consonant as 'b' and 'p' across English and Spanish contexts respectively. This indicates that bilinguals adjust their perceptual categorization across language contexts by switching between language-specific phonetic systems. 
 
